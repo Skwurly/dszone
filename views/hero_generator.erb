@@ -1,0 +1,23 @@
+<div class="hero_card">
+
+<table>
+	<tr><th class="table_header"><%= @name %></th><th class="header">Inventory</th></tr>
+	<tr><th class="header">Skills:</th><td>___________________</td></tr>
+	<tr><td>D4: <%= @d4 %></td><td>___________________</td></tr>
+	<tr><td>D8: <%= @d8 %></td><td>___________________</td></tr>
+	<tr><td>D12: <%= @d12 %></td><td>___________________</td></tr>
+	<tr><th class="header">Stuff:</th><th class="header">Treasure:</th></tr>
+    <tr><td><strong> D6: </strong><%= @d6 %></td><td>___________________</td></tr>
+	<tr><td><pre><%= @d6 %></pre></td></tr>
+  	<tr><td>D10: <%= @d10 %></td><td>___________________</td></tr>
+  	<tr><td><pre><%= @d10 %></pre></td><td>___________________</td></tr>
+</table>
+</div>
+
+<center>
+<br />
+<br />
+<br />
+<a class='nav' href='/hero_generator'>Re-roll</a>
+<a class='nav' href='/print_hero'>Print</a>
+</center>

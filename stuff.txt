@@ -1,0 +1,21 @@
+Bow
+Longbow
+Sling
+Rapier
+Katana
+Falchion
+Dagger
+Battle Axe
+Club
+Staff
+Mace
+Spear
+War Hammer
+Throwing Knives
+Shuriken
+Chakram
+Boomerang
+Leather Mail
+Chain Mail
+Plate Mail
+Shield
