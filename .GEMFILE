@@ -1,0 +1,2 @@
+sourec "https://rubygems.com"
+gem 'sinatra'
